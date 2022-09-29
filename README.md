@@ -189,14 +189,6 @@ Para copiar o projeto, utilize os comandos:
   # Iniciando servidor | Starting server
   » npm run dev
 ```
-
-Link para página Web:
- <em>
-  <h6>
-  Link to website page:
-  </h6>
-</em>
-
 ---
  
 <h4 align="center">
