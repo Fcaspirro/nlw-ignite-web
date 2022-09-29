@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img align="center" src=""/>
+  <img align="center" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FFcaspirro%2Fweb-nlw-ignite&labelColor=%23ba68c8&countColor=%23263759"/>
 </p>
 
 <p align="center">
