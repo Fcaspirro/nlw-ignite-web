@@ -196,11 +196,6 @@ Link para página Web:
   Link to website page:
   </h6>
 </em>
-  
-```bash  
-  # Link Github Pages
-  » https://fcaspirro.github.io/web-nlw-explorer/ 
-```
 
 ---
  
