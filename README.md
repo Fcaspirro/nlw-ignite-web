@@ -190,7 +190,19 @@ Para copiar o projeto, utilize os comandos:
   » npm run dev
 ```
 
+Link para página Web:
+ <em>
+  <h6>
+  Link to website page:
+  </h6>
+</em>
+  
+```bash  
+  # Link Github Pages
+  » https://fcaspirro.github.io/web-nlw-explorer/ 
+```
 
+---
  
 <h4 align="center">
 Made by: Fabio Caspirro 😄 <a href="mailto:fabio_caspirro@hotmail.com">Entre em contato | <i>Contact</i></a>
